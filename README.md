@@ -4,13 +4,44 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Cloning the Repository
 
-A few resources to get you started if this is your first Flutter project:
+To get started with the **shop_application**, clone the repository using the following command:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/your-username/shop_application.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installing Dependencies
+
+Navigate to the project directory and run the following command to fetch the required dependencies:
+
+```bash
+flutter pub get
+```
+
+### Running the Application
+
+To run the application on your connected device or emulator, use the following command:
+
+```bash
+flutter run
+```
+
+### Screenshots
+
+Below are some screenshots from the application's UI:
+
+#### Home Screen
+![Home Screen](images/1.png)
+
+#### Product List
+![Product List](images/2.png)
+
+#### Product Details
+![Product Details](images/3.png)
+
+#### Cart Screen
+![Cart Screen](images/4.png)
+
+For more details, refer to the [Flutter documentation](https://docs.flutter.dev/).
