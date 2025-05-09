@@ -38,10 +38,10 @@ Below are some screenshots from the application's UI:
 #### Product Details
 ![Product List](images/1.png)
 
-#### Product Details
+#### Cart Page
 ![Product Details](images/3.png)
 
-#### Cart Screen
+#### Favorite Page
 ![Cart Screen](images/4.png)
 
 For more details, refer to the [Flutter documentation](https://docs.flutter.dev/).
