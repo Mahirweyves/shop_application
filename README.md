@@ -32,11 +32,11 @@ flutter run
 
 Below are some screenshots from the application's UI:
 
-#### Listing Page
-![Home Screen](images/1.png)
-
 #### Product List
-![Product List](images/2.png)
+![Home Screen](images/2.png)
+
+#### Product Details
+![Product List](images/1.png)
 
 #### Product Details
 ![Product Details](images/3.png)
