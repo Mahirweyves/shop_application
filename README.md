@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+## Github Link
+Here is the link to the github page https://github.com/Mahirweyves/shop_application
 
 ### Cloning the Repository
 
